@@ -1,0 +1,5 @@
+/*El archivo codigod.txt contiene líneas con frases o palabras. La cantidad de líneas es indefinida pero menor a 20. Desarrollar un programa que:
+1- Lea el archivo y lo almacene en una matriz.
+2- Imprima por pantalla la matriz cargada con los datos del archivo.
+3- Con las letras de la diagonal se completa una palabra que se guardará en el arreglo “clave”, de a lo
+sumo 20 caracteres, el cuál debe ser impreso como resultado del proceso.*/
