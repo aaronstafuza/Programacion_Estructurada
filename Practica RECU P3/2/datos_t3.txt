@@ -1,0 +1,4 @@
+caramelos,125.4,20,93
+galletitas,24.3,11,92
+manteca,113.4,12,91
+chocolate,12.34,4,90
